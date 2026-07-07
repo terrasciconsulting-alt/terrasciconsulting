@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://terrasciconsulting.com/sitemap.xml
+Sitemap: https://www.terrasciconsulting.com/sitemap.xml
